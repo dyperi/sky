@@ -31,3 +31,16 @@ jobs:
       - name: run python script
         run: 
           python3 main.py
+
+      - name: commit github
+        run: |
+          git config --global user.email action@github.com
+          git config --global user.name GitHub Action
+          git add .
+          time=$(date "+%Y-%m-%d %H:%M:%S")
+          git commit -m "${time} 自动更新" -a
+        
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
