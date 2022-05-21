@@ -67,3 +67,15 @@
 2022-05-20 10:15:04,106 - main.py [line:53] - INFO: 爬取开始ing......
 2022-05-20 10:15:16,079 - main.py [line:63] - INFO: 共获取到0条链接.
 2022-05-20 10:15:16,079 - main.py [line:85] - INFO: 处理完成! 新数据条数:0
+2022-05-21 09:47:18,135 - main.py [line:53] - INFO: 爬取开始ing......
+2022-05-21 09:47:19,868 - main.py [line:63] - INFO: 共获取到9条链接.
+2022-05-21 09:47:29,319 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/6285c16ac3e1e500011ada48/插入成功！
+2022-05-21 09:47:29,320 - /home/runner/work/sky/sky/api_web.py [line:151] - INFO: 2022-05-21 光遇05.19复刻攻略 保存成功!
+2022-05-21 09:47:36,168 - /home/runner/work/sky/sky/email_service.py [line:86] - INFO: 2810479369@qq.com邮件推送成功!
+2022-05-21 09:47:44,509 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/62866ffec5a325000188a6bc/插入成功！
+2022-05-21 09:47:44,509 - /home/runner/work/sky/sky/api_web.py [line:151] - INFO: 2022-05-21 光遇小助理每日攻略 保存成功!
+2022-05-21 09:47:49,483 - /home/runner/work/sky/sky/email_service.py [line:86] - INFO: 2810479369@qq.com邮件推送成功!
+2022-05-21 09:47:55,970 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/6287c7c934083600017f8e4f/插入成功！
+2022-05-21 09:47:55,970 - /home/runner/work/sky/sky/api_web.py [line:151] - INFO: 2022-05-21 光遇小助理每日攻略[181] 保存成功!
+2022-05-21 09:48:01,111 - /home/runner/work/sky/sky/email_service.py [line:86] - INFO: 2810479369@qq.com邮件推送成功!
+2022-05-21 09:48:06,112 - main.py [line:85] - INFO: 处理完成! 新数据条数:3
